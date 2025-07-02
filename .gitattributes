@@ -1,4 +1,4 @@
 styles/colours.css linguist-documentation=true
 styles/variables.css linguist-documentation=true
 
-*.* linguist-language=VueJS
+*.* linguist-language=Vue
